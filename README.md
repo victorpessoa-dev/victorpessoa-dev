@@ -4,22 +4,18 @@ Currently, I am studying Software Engineering at **Jala University**, with my ma
 
 
 
-
-
-
 ## 🚀 Technologies I'm Learning:
 
 <div>
   <img align="center" alt="Victor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Victor-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Victor-Nuxt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="Victor-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Victor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
+  <img align="center" alt="Victor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/java-original.svg"> 
 </div>
-
-
 
 
 
@@ -27,13 +23,10 @@ Currently, I am studying Software Engineering at **Jala University**, with my ma
 ## 📈 Estatísticas GitHub | GitHub Stats
 
 <div align="center">
-  <img width="38%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01&layout=compact&langs_count=7&theme=radical&title_color=fff&text_color=fff" />
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=victorpessoa01&show_icons=true&theme=radical&title_color=fff&text_color=fff" />
+  <img width="38%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa-dev&layout=compact&langs_count=7&theme=radical&title_color=fff&text_color=fff" />
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=victorpessoa-dev&show_icons=true&theme=radical&title_color=fff&text_color=fff" />
 </div>
 <br clear="both">
-
-
-
 
 
 
@@ -45,6 +38,6 @@ Currently, I am studying Software Engineering at **Jala University**, with my ma
   <b>Visitors Count</b>
 </p>  
 <p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/{victorpessoa01}/count.svg"/>
+  <img align="center" src="https://profile-counter.glitch.me/{victorpessoa-dev}/count.svg"/>
 </p> 
 </div>
