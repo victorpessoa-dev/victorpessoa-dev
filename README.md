@@ -10,11 +10,11 @@ Currently, I am studying Software Engineering at **Jala University**, with my ma
   <img align="center" alt="Victor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Victor-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Victor-Nuxt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="Victor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg">
+  <img align="center" alt="Victor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
-  <img align="center" alt="Victor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/java-original.svg"> 
+  <img align="center" alt="Victor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
 </div>
 
 
@@ -34,10 +34,7 @@ Currently, I am studying Software Engineering at **Jala University**, with my ma
 ## 👀 My Views
 
 <div align="center">
-<p align="centre">
-  <b>Visitors Count</b>
-</p>  
-<p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/{victorpessoa-dev}/count.svg"/>
-</p> 
+  <p><b>Visitors Count</b></p>
+  <img src="https://profile-counter.glitch.me/victorpessoa-dev/count.svg" />
 </div>
+
