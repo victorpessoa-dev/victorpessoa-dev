@@ -30,11 +30,9 @@ Currently, I am studying Software Engineering at **Jala University**, with my ma
 
 
 
-
 ## 👀 My Views
 
 <div align="center">
   <p><b>Visitors Count</b></p>
-  <img src="https://profile-counter.glitch.me/victorpessoa-dev/count.svg" />
+  <img align="center" src="https://profile-counter.glitch.me/victorpessoa-dev/count.svg" />
 </div>
-
