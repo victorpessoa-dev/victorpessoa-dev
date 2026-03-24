@@ -19,8 +19,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa-dev&layout=compact&langs_count=7&theme=radical" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=victorpessoa-dev&show_icons=true&theme=radical" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa-dev&layout=compact&langs_count=7&theme=radical" />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=victorpessoa-dev&show_icons=true&theme=radical" />
 </div>
 
 
