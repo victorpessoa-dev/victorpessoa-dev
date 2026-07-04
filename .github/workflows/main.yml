@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: victorpessoa-dev
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-neon
+                dist/github-contribution-grid-snake-dark.svg?color_snake=#00BFBF&color_dots=#0D1117,#0E7490,#0891B2,#06B6D4,#22D3EE
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
