@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=32&duration=3500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Victor+Pessoa;Frontend+Developer+in+Progress;Building+with+Next.js+%26+React;Exploring+AI+and+Automation;Always+Learning)](https://git.io/typing-svg)
-
-# 👋 Bem-vindo ao meu GitHub
-
-Sou um **desenvolvedor Front-end em formação**, apaixonado por tecnologia e por transformar ideias em projetos reais.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Victor+Pessoa;Frontend+Developer;Always+learning+new+technologies!)](https://git.io/typing-svg)
 
 Atualmente, estou estudando **Next.js**, **React**, **JavaScript**, Inteligência Artificial e automações, buscando evoluir continuamente por meio de projetos práticos.
 
