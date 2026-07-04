@@ -38,17 +38,12 @@ Aqui você encontrará minha evolução como desenvolvedor e os projetos que faz
 ## Estatísticas
 
 <p align="center">
-<img width="48%" src="https://streak-stats.demolab.com?user=victorpessoa-dev&theme=dark&hide_border=true"/>
-<img width="48%" src="https://github-profile-trophy.vercel.app/?username=victorpessoa-dev&theme=dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+<img width="88%" src="https://streak-stats.demolab.com?user=victorpessoa-dev&theme=transparent&hide_border=true&background=0D1117&ring=00BFBF&fire=00BFBF&currStreakLabel=00BFBF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=victorpessoa-dev&theme=dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=victorpessoa-dev&bg_color=0d1117&color=7DD3FC&line=06B6D4&point=22D3EE&area=true&area_color=0891B2&hide_border=true&title_color=22D3EE&custom_title=Gráfico%20de%20Contribuições"/>
 </p>
-
----
-
-## Minhas contribuições
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/victorpessoa-dev/victorpessoa-dev/output/github-contribution-grid-snake-dark.svg" />
