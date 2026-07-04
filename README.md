@@ -25,7 +25,7 @@ Aqui você encontrará minha evolução como desenvolvedor e os projetos que faz
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Desenvolver aplicações modernas e responsivas.
 - Aprimorar minhas habilidades em React e Next.js.
@@ -35,7 +35,7 @@ Aqui você encontrará minha evolução como desenvolvedor e os projetos que faz
 
 ---
 
-# 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
 <img width="48%" src="https://streak-stats.demolab.com?user=victorpessoa-dev&theme=tokyonight&hide_border=true"/>
@@ -48,7 +48,7 @@ Aqui você encontrará minha evolução como desenvolvedor e os projetos que faz
 
 ---
 
-# 🐍 Minhas contribuições
+## Minhas contribuições
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/victorpessoa-dev/victorpessoa-dev/output/github-contribution-grid-snake-dark.svg" />
@@ -56,18 +56,18 @@ Aqui você encontrará minha evolução como desenvolvedor e os projetos que faz
 
 ---
 
-# 📫 Contato
+## Contato
 
 <p align="center">
 <a href="https://github.com/victorpessoa-dev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/victorpessoa_">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:victorpessoa0011@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
