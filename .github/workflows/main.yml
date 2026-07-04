@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     permissions:
@@ -16,8 +16,9 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: victorpessoa-dev
+
           outputs: |
-                dist/github-contribution-grid-snake-dark.svg?color_snake=#00BFBF&color_dots=#0D1117,#0E7490,#0891B2,#06B6D4,#22D3EE
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300BFBF
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
