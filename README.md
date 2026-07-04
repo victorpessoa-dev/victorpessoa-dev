@@ -38,7 +38,7 @@ Aqui você encontrará minha evolução como desenvolvedor e os projetos que faz
 ## Estatísticas
 
 <p align="center">
-<img width="48%" src="https://streak-stats.demolab.com?user=victorpessoa-dev&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=victorpessoa-dev&theme=dark&hide_border=true"/>
 <img width="48%" src="https://github-profile-trophy.vercel.app/?username=victorpessoa-dev&theme=dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 </p>
 
