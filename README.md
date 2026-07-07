@@ -50,19 +50,3 @@ Aqui você encontrará minha evolução como desenvolvedor e os projetos que faz
 </p>
 
 ---
-
-## Contato
-
-<p align="center">
-<a href="https://github.com/victorpessoa-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/victorpessoa_">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:victorpessoa0011@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
